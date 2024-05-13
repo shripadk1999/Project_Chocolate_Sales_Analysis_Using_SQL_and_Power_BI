@@ -33,7 +33,7 @@ What is the Sales as per Chocolate type, Brand and Age Segment ?<br />
 What is the Daily, Monthly and Quarterly Sales Trend?<br />
 Graphical representation of sales by Cocoa Origin and City.<br />
 ## Learned About 
-Calculated Field: To Calculate Attrition Rate & Active Employees<br />
+Calculated Fields<br />
 Donut chart and Pie Chart<br />
 Bar Chart and Cluster chart 📊<br />
 KPI(Key Performance Indicators) and Slicer.<br />

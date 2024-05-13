@@ -4,7 +4,7 @@ Developed an insightful Chocolate Sales dashboard using Power BI to provide insi
 ## Objective:
 The objective of this project is to comprehensively analyse the raw data and provide actionable insights through a dashboard for improving total sales of a chocolate shop.These  insights will prove helpful for the sales team for their further analysis.
 Throughout this project, I've had the chance to:<br />
-  1.Dive deep into Pizza Sales data to uncover valuable insights. <br />
+  1.Dive deep into Chocolate Sales data to uncover valuable insights. <br />
   2.Develop interactive dashboards to visualise key Sales Metrics.<br />
   3.Provide data-driven recommendations for strategic decision-making.
 

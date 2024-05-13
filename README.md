@@ -40,3 +40,9 @@ KPI(Key Performance Indicators) and Slicer.<br />
 Filters: Used to filter data according to different City and Brands.<br />
 
 ## Dashboard :
+![Project Chcocolate Sales Report 1](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/670be508-c8b7-4522-857c-3d57f41ace8d)
+![Project Chcocolate Sales Report 2](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/a3ced28e-0a81-46f8-83cd-7088a62a87e3)
+![Project Chcocolate Sales Report 3](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/9de53097-1339-48ee-b7c0-d72ca3025d5f)
+![Project Chcocolate Sales Report 4](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/e3834c72-c4b7-4792-9650-23570bb53700)
+![Project Chcocolate Sales Report 5](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/023b9cd2-2f0f-4f60-b736-019ddaf942d8)
+

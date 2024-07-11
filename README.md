@@ -1,7 +1,7 @@
 # Project Chocolate Sales Analysis Using SQL and Power BI
-Developed an insightful Chocolate Sales dashboard using Power BI to provide insights to the Sales Team.
+![Screenshot 2024-07-11 154721](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_SQL_and_Power_BI/assets/161477229/657ca900-6359-4677-9073-559424eb9b39)
 
-## Objective:
+## Problem Statement:
 The objective of this project is to comprehensively analyse the raw data and provide actionable insights through a dashboard for improving total sales of a chocolate shop.These  insights will prove helpful for the sales team for their further analysis.
 Throughout this project, I've had the chance to:<br />
   * Dive deep into Chocolate Sales data to uncover valuable insights. <br />

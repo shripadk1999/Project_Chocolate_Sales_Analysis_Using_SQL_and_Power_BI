@@ -58,3 +58,7 @@ Data-Driven Redistribution: Leveraged Continent-wise and City-wise analysis have
 ![Project Chcocolate Sales Report 4](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/e3834c72-c4b7-4792-9650-23570bb53700)
 ![Project Chcocolate Sales Report 5](https://github.com/shripadk1999/Project_Chocolate_Sales_Analysis_Using_Power_BI/assets/161477229/023b9cd2-2f0f-4f60-b736-019ddaf942d8)
 
+**Shripad Kulkarni**  
+- Email: [shripadkulkarni2212@gmail.com](mailto:shripadkulkarni2212@gmail.com)  
+- LinkedIn: [Shripad Kulkarni](https://www.linkedin.com/in/shripad-kulkarni-candoit)  
+- GitHub: [Shripad Kulkarni](https://github.com/shripadk1999)
